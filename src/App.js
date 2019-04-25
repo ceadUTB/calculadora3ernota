@@ -29,7 +29,7 @@ class App extends React.Component {
 
     return (
       <h3 className="text-center alert alert-info">
-        La nota que debo obtener para aprobar mi asignatura es:<br/><h2><strong className="">{this.state.nota3}</strong></h2>
+        La nota mínima requerida para aprobar la asignatura es:<br/><h2><strong className="">{this.state.nota3}</strong></h2>
       </h3>
     )
   }
@@ -68,7 +68,7 @@ class App extends React.Component {
                     />
                   </div>
                   <div className="form-group text-center">
-                    <input type="submit" value="Calcular Nota 3er Corte" className="btn btn-success mr-2" />
+                    <input type="submit" value="Calcular Nota" className="btn btn-success mr-2" />
                     <a href="/calculadora3ernota/" className="btn btn-info">Reiniciar</a>
                   </div>
                 </form>
