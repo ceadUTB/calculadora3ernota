@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/calculadora3ernota/precache-manifest.f34117efa779546d02abdd84b91de04b.js"
+  "/calculadora3ernota/precache-manifest.6db7c3db0f3ab4bafb641395e5303788.js"
 );
 
 self.addEventListener('message', (event) => {
