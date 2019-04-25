@@ -69,7 +69,7 @@ class App extends React.Component {
                   </div>
                   <div className="form-group text-center">
                     <input type="submit" value="Calcular Nota 3er Corte" className="btn btn-success mr-2" />
-                    <a href="/" className="btn btn-info">Reiniciar</a>
+                    <a href="/calculadora3ernota/" className="btn btn-info">Reiniciar</a>
                   </div>
                 </form>
               </div>
