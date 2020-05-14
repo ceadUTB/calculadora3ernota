@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/calculadora3ernota/static/css/main.e4205e14.chunk.css",
-    "main.js": "/calculadora3ernota/static/js/main.3c95b9d9.chunk.js",
-    "main.js.map": "/calculadora3ernota/static/js/main.3c95b9d9.chunk.js.map",
+    "main.js": "/calculadora3ernota/static/js/main.c366b83b.chunk.js",
+    "main.js.map": "/calculadora3ernota/static/js/main.c366b83b.chunk.js.map",
     "runtime~main.js": "/calculadora3ernota/static/js/runtime~main.30f1fe48.js",
     "runtime~main.js.map": "/calculadora3ernota/static/js/runtime~main.30f1fe48.js.map",
-    "static/js/2.548e0644.chunk.js": "/calculadora3ernota/static/js/2.548e0644.chunk.js",
-    "static/js/2.548e0644.chunk.js.map": "/calculadora3ernota/static/js/2.548e0644.chunk.js.map",
+    "static/js/2.67841258.chunk.js": "/calculadora3ernota/static/js/2.67841258.chunk.js",
+    "static/js/2.67841258.chunk.js.map": "/calculadora3ernota/static/js/2.67841258.chunk.js.map",
     "index.html": "/calculadora3ernota/index.html",
-    "precache-manifest.567c48f4fe8d3babc0a4e6bfa1ef03dc.js": "/calculadora3ernota/precache-manifest.567c48f4fe8d3babc0a4e6bfa1ef03dc.js",
+    "precache-manifest.9bcb09ee12ecb7307a5c09fe647611c1.js": "/calculadora3ernota/precache-manifest.9bcb09ee12ecb7307a5c09fe647611c1.js",
     "service-worker.js": "/calculadora3ernota/service-worker.js",
     "static/css/main.e4205e14.chunk.css.map": "/calculadora3ernota/static/css/main.e4205e14.chunk.css.map",
     "static/media/logo.png": "/calculadora3ernota/static/media/logo.de6fb0dc.png"
