@@ -25,8 +25,26 @@
 
 <body>
   <noscript>You need to enable JavaScript to run this app.</noscript>
-  <div id="root"></div>
-  <div id="pps"></div>
+  <ul class="nav nav-pills">
+    <li class="active"><a data-toggle="pill" href="#home">Calculadora 3 corte</a></li>
+    <li><a data-toggle="pill" href="#menu1">Calculadora de PPS para salir de PA o RA</a></li>
+    <li><a data-toggle="pill" href="#menu2">Muy pronto</a></li>
+  </ul>
+  
+  <div class="tab-content">
+    <div id="home" class="tab-pane fade in active">
+      <!--<h3>Calculadora de 3er corte</h3>-->
+      <div id="root"></div>
+    </div>
+    <div id="menu1" class="tab-pane fade">
+      <div id="pps"></div>
+    </div>
+    <div id="menu2" class="tab-pane fade">
+      <h3>Muy Pronto</h3>
+    </div>
+  </div>
+  
+  
   <!--
       This HTML file is a template.
       If you open it directly in the browser, you will see an empty page.
