@@ -6,7 +6,7 @@ import CalculaPPS from './CalculaPPS';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
-ReactDOM.render(<CalculaPPS />, document.getElementById('pps'));
+//ReactDOM.render(<CalculaPPS />, document.getElementById('pps'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
