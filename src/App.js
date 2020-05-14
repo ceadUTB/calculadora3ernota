@@ -17,7 +17,7 @@ class App extends React.Component {
     let nota2 = this.nota2Ref.current.value;
 
     this.setState({
-      nota3: ( 3 - ( (nota1 * .30) - (nota2 * .35) ) ) / 0.35
+      nota3: ( 3 - ( (nota1 * .30) + (nota2 * .35) ) ) / 0.35
     });
 
     return this.state.nota3;
