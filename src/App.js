@@ -36,7 +36,11 @@ class App extends React.Component {
 
   render() {
     return (
-       <div>
+      <div className="container mt-5">
+      <div className="row justify-content-center text-white">
+        <div className="col-md-6">
+          <img src={logo} alt="Logo" className="img-fluid mb-5"/>
+
             <h1 className="text-center">Calculadora</h1>
             <h2 className="text-center">¿Cuánto debo obtener en el 3er corte para aprobar mi asignatura?</h2>
             <div className="card">
@@ -74,7 +78,9 @@ class App extends React.Component {
             <div className="mt-2">
               {this.mostrarResultado()}
             </div>
-            </div>     
+            </div>   
+            </div>
+            </div>  
     );
   }
 }
