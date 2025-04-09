@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.png';
+import logo from './logo-blanco.png';
 
 class CalculaPPS extends React.Component {
   constructor(props) {
